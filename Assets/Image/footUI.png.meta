@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 10ca9939b2c311b42af925038e1f4f2d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: footUI-01_0
+    21300002: footUI-01_1
+    21300004: footUI-01_2
+    21300006: footUI-01_3
+    21300008: footUI-01_4
+    21300010: footUI-01_5
+    21300012: footUI-01_6
+    21300014: footUI-01_7
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: footUI-01_0
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 2622
+        width: 1126
+        height: 3556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2318120f48f4f594ca6096336f358a93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footUI-01_1
+      rect:
+        serializedVersion: 2
+        x: 4003
+        y: 2621
+        width: 1131
+        height: 3557
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 246.5, y: 1185.5}
+        - {x: 187.5, y: 1285.5}
+        - {x: 130.5, y: 1367.5}
+        - {x: 57.5, y: 1458.5}
+        - {x: -4.5, y: 1525.5}
+        - {x: -84.5, y: 1596.5}
+        - {x: -135.5, y: 1634.5}
+        - {x: -192.5, y: 1673.5}
+        - {x: -268.5, y: 1712.5}
+        - {x: -345.5, y: 1745.5}
+        - {x: -414.5, y: 1763.5}
+        - {x: -479.5, y: 1774.5}
+        - {x: -565.4152, y: 1778.5}
+        - {x: -565.4152, y: -1777.2051}
+        - {x: 106.5, y: -1777.5}
+        - {x: 182.5, y: -1670.5}
+        - {x: 254.5, y: -1550.5}
+        - {x: 325.5, y: -1408.5}
+        - {x: 389.5, y: -1248.5}
+        - {x: 429.5, y: -1134.5}
+        - {x: 479.5, y: -955.5}
+        - {x: 528.5, y: -706.5}
+        - {x: 554.5, y: -486.5}
+        - {x: 561.5, y: -338.5}
+        - {x: 565.5, y: -187.5}
+        - {x: 561.5, y: 4.5}
+        - {x: 548.5, y: 173.5}
+        - {x: 520.5, y: 377.5}
+        - {x: 474.5, y: 594.5}
+        - {x: 443.5, y: 713.5}
+        - {x: 369.5, y: 924.5}
+        - {x: 304.5, y: 1074.5}
+      physicsShape:
+      - - {x: -565.4152, y: 1778.5}
+        - {x: -565.4152, y: -1777.2051}
+        - {x: 161.54951, y: -1777.2051}
+        - {x: 565.5, y: -1481.5781}
+        - {x: 565.5, y: 1468.6582}
+        - {x: -94.84883, y: 1778.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f76e3e7354de2b4ebdd5ccd92cffe26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footUI-01_2
+      rect:
+        serializedVersion: 2
+        x: 4011
+        y: 0
+        width: 954
+        height: 2178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -475.9711, y: 1089}
+        - {x: -475.9711, y: -1089}
+        - {x: -453, y: -1089}
+        - {x: -400, y: -1085}
+        - {x: -328, y: -1074}
+        - {x: -229, y: -1044}
+        - {x: -110, y: -987}
+        - {x: -11, y: -916}
+        - {x: 92, y: -823}
+        - {x: 192, y: -702}
+        - {x: 278, y: -565}
+        - {x: 344, y: -427}
+        - {x: 394, y: -294}
+        - {x: 431, y: -158}
+        - {x: 456, y: -30}
+        - {x: 471, y: 103}
+        - {x: 477, y: 251}
+        - {x: 477, y: 381}
+        - {x: 468, y: 477}
+        - {x: 452, y: 599}
+        - {x: 421, y: 736}
+        - {x: 388, y: 847}
+        - {x: 353, y: 948}
+        - {x: 285, y: 1089}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4524629ea2d996748a0a3eb91acaa0cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footUI-01_3
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 0
+        width: 966
+        height: 2178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbfbd63dd69b81409b90aa56936c414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footUI-01_4
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 0
+        width: 957
+        height: 2179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4682cf9dee80869418b68d82977d297e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footUI-01_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 964
+        height: 2178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c2ca726fe5a784d8283c02399cb3cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footUI-01_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2621
+        width: 1122
+        height: 3557
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9525ff0d125107478a9665e532374ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: footUI-01_7
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 2621
+        width: 1132
+        height: 3557
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9c6e36e30d3754a868d83f5458b4a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8901aa8fb02920444945a3e7cc567317
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
